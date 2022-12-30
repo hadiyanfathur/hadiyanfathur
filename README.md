@@ -4,14 +4,14 @@
 <h3 align="center">Happy to Learn new things and technologies.</h3>
 
 ## Connect with me:
-**hadiyanfathurr@gmail.com**
+<p><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/> mailto:**hadiyanfathurr@gmail.com**<p> 
 <a href = "https://www.linkedin.com/in/hadiyanfr/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DidinAmarudinn">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/DidinAmarudinn?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/hadiyanfathur?label=Followers&style=social" alt="GitHub Badge"></a>
   
 <!---
 hadiyanfathur/hadiyanfathur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
